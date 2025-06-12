@@ -1,6 +1,9 @@
-# Practical DevOps implementations and iontributions based on Microservices Demo – Online Boutique App
+# Practical DevOps implementations and contributions based on Microservices Demo – Online Boutique App
 
-This fork of `microservices-demo` serves as a central index of all my DevOps projects built using the Online Boutique microservices architecture.
+- This fork of `microservices-demo` serves as a central index of all my DevOps projects and practical implementations built using the Online Boutique microservices architecture.
+- It showcases my hands-on contributions across a range of real-world scenarios — including GitOps, infrastructure provisioning, observability, cloud migration, cost optimization, secure CI/CD pipelines, and progressive delivery.
+- Each project reflects modern DevOps practices, platform-specific capabilities, and proven tools — aligned with production-grade architectures and scalable cloud-native workflows.
+
 
 | # | Project Title | Platform | Focus Area | Link |
 |---|---------------|----------|-------------|------|
