@@ -1,4 +1,4 @@
-# DevOps Projects Based on Online Boutique
+# Practical DevOps implementations and iontributions based on Microservices Demo – Online Boutique App
 
 This fork of `microservices-demo` serves as a central index of all my DevOps projects built using the Online Boutique microservices architecture.
 
